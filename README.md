@@ -20,6 +20,9 @@
 
 - Criar uma plataforma de gerenciamento de viagens espaciais. A plataforma terá duas partes: uma pública e uma privada
 
+Login: astrodev@gmail.com.br
+Senha: 123456
+
 ## Wireframe
 ![Wireframe](/src/wireframe/telas.png)
 
@@ -47,6 +50,7 @@
 ## Acesso ao projeto
 
 **Link do surge**
+confused-stew.surge.sh
 
 🛠️
 ## Tecnologias utilizadas

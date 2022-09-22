@@ -16,7 +16,7 @@
 * [Conclusão](#conclusão)
 
 
-📝
+![Tela](img/Tela_Readme.png)
 ## Descrição do Projeto
 
 - Projeto de consumo de API e utilização de Estado Global

@@ -17,7 +17,7 @@
 
 ## Tela Inicial
 
-![Tela Inicial](/src/img/Tela_Readme.png)
+![Tela Inicial](https://github.com/Samuca010/ESTUDO/blob/main/Pokedex/src/img/Tela_Readme.png)
 
 ## Descrição do Projeto
 

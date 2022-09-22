@@ -15,8 +15,10 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 * [Conclusão](#conclusão)
 
+## Tela Inicial
 
-![Tela](/src/img/Tela_Readme.png)
+![Tela Inicial](/src/img/Tela_Readme.png)
+
 ## Descrição do Projeto
 
 - Projeto de consumo de API e utilização de Estado Global

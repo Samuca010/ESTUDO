@@ -1,27 +1,67 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGbifI-1RahtQ/profile-displaybackgroundimage-shrink_200_800/0/1663681057181?e=1669248000&v=beta&t=TYwJeJSwCoEcRUbKZg6p5oNoe6JHTw62MWsl8Kiyi_0">
+# Labe X
 
-# Meu nome é Samuel Garcia  
-Sou Técnico em Informática, atuando na área de comércio varejista a mais de 20 anos.
-Busco novas especialidades, e por isso estou em processo de de aprendizagem ná área de desenvolvimento.
-- 🔭 **Alguns conhecimentos adquiridos:**
+## Índice
 
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-- :bookmark_tabs: **Conteúdo em andamento: **
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit"/>
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Samuca010)
-
-- :mailbox_with_mail: **Contatos:** 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-garcia-a2320631/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/samuelgarcia.silva/) 
+* [Título e Imagem de capa](#e-commerce)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Árvore de componentes](#árvore-de-componentes)
+* [Wireframe](#wireframe)
+* [Status do Projeto](#status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-do-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
+* [Conclusão](#conclusão)
 
 
-[<img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>](https://www.skype.com/pt-br) samu_garcia 
+
+## Descrição do Projeto
+
+- Criar uma plataforma de gerenciamento de viagens espaciais. A plataforma terá duas partes: uma pública e uma privada
+
+## Wireframe
+![Wireframe](/src/wireframe/telas.png)
+
+- Imagens individuais de cada tela se encontram na pasta "wireframe"
+
+## Fluxograma
+![Arvore de componentes](/src/wireframe/fluxograma.png)
 
 
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/) samuca010
+## Tela Inicial
+
+![Tela Inicial](/src/img/tela.jpg)
 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> samuca010@gmail.com
+## Funcionalidades do projeto
+
+- [ ] Visualizar viagens
+- [ ] Fazer Login como Administrador
+- [ ] Cadastrar novas viagens
+- [ ] Deletar Viagens
+- [ ] Canditar-se a uma viagem
+- [ ] Aprovar/Reprovar candidaturas
+
+📁
+## Acesso ao projeto
+
+**Link do surge**
+
+🛠️
+## Tecnologias utilizadas
+
+- **JAVASCRIPT**
+- **REACT** 
+
+🤓
+## Pessoa Desenvolvedora do Projeto
+
+ [<img src="https://avatars.githubusercontent.com/u/102331990?v=4" width=115><br><sub>Samuel Garcia</sub>](https://github.com/Samuca010) 
+
+
+✔️
+## Conclusão
+
+Projeto que ajudo muito desenvolvimento de capturar dados de APIs e criação de rotas.
+

@@ -31,7 +31,7 @@
 
 ## Tela Inicial
 
-![Tela Inicial](/src/img/tela.jpg)
+![Tela Inicial](/src/img/Tela.jpg)
 
 
 ## Funcionalidades do projeto
@@ -63,5 +63,5 @@
 ✔️
 ## Conclusão
 
-Projeto que ajudo muito desenvolvimento de capturar dados de APIs e criação de rotas.
+Projeto que me ajudou muito no desenvolvimento em capturar dados de APIs e criação de rotas.
 
